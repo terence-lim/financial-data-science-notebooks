@@ -16,7 +16,7 @@ Lim, Terence (2025). *Financial Data Science in Python Notebooks*. Retrieved fro
 
 As financial markets produce vast volumes of structured and unstructured data,
 the ability to extract insights and develop predictive models has become increasingly important.
-[Financial Data Science Python Notebooks](https://terence-lim.github.io/docs/financial-data-science-notebooks/)
+[Financial Data Science in Python Notebooks](https://terence-lim.github.io/docs/financial-data-science-notebooks/)
 provide a practical guide for analysts, researchers, and data scientists looking to apply Python
 and its broad ecosystem of libraries, tools, frameworks, and community resources
 to financial analysis, econometrics, and machine learning.
@@ -98,7 +98,7 @@ In addition to data access, it provides practical examples and templates for app
 
 - [Financial Data Science in Python Notebooks](notebooks/https://financial-data-science.readthedocs.io)
 
-- [PDF Book](notebooks/https://terence-lim.github.io/docs/financial-data-science-notebooks.pdf)
+- [PDF Book](https://terence-lim.github.io/docs/financial-data-science-notebooks.pdf)
 
 - [FinDS API reference](notebooks/https://terence-lim.github.io/docs/financial-data-science/)
 
