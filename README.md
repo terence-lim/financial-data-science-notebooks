@@ -96,20 +96,20 @@ In addition to data access, it provides practical examples and templates for app
 
 ## Online Documentation
 
-- [Financial Data Science in Python Notebooks](notebooks/https://financial-data-science.readthedocs.io)
+- [Financial Data Science in Python Notebooks](https://financial-data-science.readthedocs.io)
 
 - [PDF Book](https://terence-lim.github.io/docs/financial-data-science-notebooks.pdf)
 
-- [FinDS API reference](notebooks/https://terence-lim.github.io/docs/financial-data-science/)
+- [FinDS API reference](https://terence-lim.github.io/docs/financial-data-science/)
 
 
 ## Github Repos
 
-- [FinDS package](notebooks/https://github.com/terence-lim/financial-data-science)
+- [FinDS package](https://github.com/terence-lim/financial-data-science)
 
-- [Jupyter notebooks](notebooks/https://github.com/terence-lim/financial-data-science-notebooks)
+- [Jupyter notebooks](https://github.com/terence-lim/financial-data-science-notebooks)
 
 
 ## Contact
 
-[https://terence-lim.github.io](notebooks/https://terence-lim.github.io)
+[https://terence-lim.github.io](https://terence-lim.github.io)
